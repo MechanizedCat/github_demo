@@ -3,3 +3,5 @@
 3.git branch -avv
 4.git reset --hard xxid
 5.git log --graph
+6.git config --global user.email/name
+
